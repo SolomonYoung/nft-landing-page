@@ -1,5 +1,5 @@
 // METAMASK CONNECTION
-const TIMEOUT = 9985;
+const TIMEOUT = 5000;
 const COLLECTION_NAME = 'Hermit Society';
 let editions = [];
 let dots = 1;
